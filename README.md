@@ -100,7 +100,7 @@ python evaluate_model.py
 
 ## 📄 License
 
-No license has been specified for this repository yet. Consider adding one (e.g. MIT) so others know how they can use your code.
+No license has been specified for this repository yet.
 
 ## 🙏 Acknowledgements
 
